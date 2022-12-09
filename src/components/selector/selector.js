@@ -3,8 +3,11 @@ import "./selector.css";
 
 const Selector = () => {
 	return (
-		<div className="Circle">
-			<p>THIS IS A CIRCLE SELECTOR</p>
+		<div className="CircleSelector">
+			<button className="selected">circle 1</button>
+			<button>circle 2</button>
+			<button>circle 3</button>
+			<button>circle 4</button>
 		</div>
 	);
 };

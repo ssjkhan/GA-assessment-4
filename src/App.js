@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import "./App.css";
 import Selector from "./components/selector/selector";
 import Circles from "./components/circles/circles";
